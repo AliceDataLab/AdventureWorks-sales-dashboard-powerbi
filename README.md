@@ -39,7 +39,7 @@ The data model is designed using a star schema structure, with the InternetSales
 
 This structure allows efficient filtering, aggregation, and analysis across different dimensions such as time, location, and product categories.
 
-![Data Model](data-model.png)
+![Data Model](data-model.png.png)
 
 ## Key Insights
 - The United States contributes the largest share of total sales  
@@ -47,7 +47,7 @@ This structure allows efficient filtering, aggregation, and analysis across diff
 - Some regions outperform others, suggesting opportunities for targeted strategies  
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 
 ## Author
