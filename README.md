@@ -42,9 +42,10 @@ This structure allows efficient filtering, aggregation, and analysis across diff
 ![Data Model](data-model.png.png)
 
 ## Key Insights
-- The United States contributes the largest share of total sales  
-- Sales vary across months, with noticeable peaks and declines  
-- Some regions outperform others, suggesting opportunities for targeted strategies  
+
+- The United States is the largest contributor to total sales, making it the primary driver of overall revenue performance.
+- Monthly sales fluctuate throughout the year, with noticeable peaks that may reflect seasonal demand patterns.
+- Geographic differences across U.S. states suggest opportunities for more targeted regional sales strategies.  
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png.png)
