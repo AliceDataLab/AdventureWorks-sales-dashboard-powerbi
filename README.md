@@ -33,6 +33,14 @@ A map visualization focuses on sales performance across U.S. states, highlightin
 - DAX (Data Analysis Expressions)  
 - Data Modeling  
 
+## Data Model
+
+The data model is designed using a star schema structure, with the InternetSales table as the central fact table. It is connected to multiple dimension tables, including Customer, Product, Geography, Calendar, and Sales Territory.
+
+This structure allows efficient filtering, aggregation, and analysis across different dimensions such as time, location, and product categories.
+
+![Data Model](data-model.png)
+
 ## Key Insights
 - The United States contributes the largest share of total sales  
 - Sales vary across months, with noticeable peaks and declines  
@@ -40,6 +48,7 @@ A map visualization focuses on sales performance across U.S. states, highlightin
 
 ## Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)
+
 
 ## Author
 Alice Mataruse Mataruse  
